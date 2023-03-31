@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='utf-8') as f:
 
 setuptools.setup(
     name="PPshare",
-    version='0.0.9',
+    version='1.0.0',
     author="zemengchuan",
     author_email="zemengchuan@gmail.com",
     license="MIT",
